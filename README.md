@@ -1,24 +1,5 @@
 # form-vue
 
-## Project setup
-```
-yarn install
-```
+## FORM COMPONENT
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Create a form component that takes user Surname and Firstname. When submitted it calls the submit api log's the user in succesfully and display the user's name. It should handle this using vuex and composition api. 
